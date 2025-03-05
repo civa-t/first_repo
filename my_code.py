@@ -5,7 +5,7 @@ age = 45
 
 # to check age of the person
 if(age > 50):
-	print("You are qualified for precidency")
+	print("You are qualified for presidency")
 else:
 	print("Try again, next year")
 
